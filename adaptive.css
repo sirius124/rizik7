@@ -254,7 +254,8 @@
 
 
 .youtube-video {
-  width: 450px;
+  width: 440px;
+  margin-left: 5px;
 }
 
 } 
