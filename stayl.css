@@ -1,0 +1,265 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&display=swap');
+* {
+  margin: 0;
+    padding: 0;
+}
+body {
+
+}
+
+.container {
+  width: 1000px;
+  height: 2000px;
+  background-color: white;
+  margin: 0 auto;
+}
+
+.logo {
+  width: 295px;
+  height: 85px;
+  float:left;
+    margin-left: 25px;
+}
+
+.watch {
+  width: 155px;
+  height: 40px;
+  float: left;
+  margin-top: 17px;
+}
+
+.watch-mather{
+  margin-left: 320px;
+
+}
+
+.location {
+  width: 155px;
+  height: 40px;
+  margin-top: 17px;
+  margin-left: -5px;
+  float: left;
+}
+
+
+
+
+
+.telegram {
+  margin-left: 40px;
+  margin-top: 14px;
+
+}
+
+.instagram {
+  margin-left: 20px;
+  margin-top: 14px;
+}
+
+.call {
+  margin-left: 20px;
+  margin-top: 15px;
+
+}
+
+
+
+
+.teg0{
+  color: #000;
+  font-family: Comfortaa;
+  font-size: 30px;
+  margin-top: 190px;
+    margin-left: 40px;
+}
+
+.teg1{
+  color: #000;
+  font-family: Comfortaa;
+  font-size: 30px;
+    margin-left: 40px;
+}
+
+.starting{
+  width: 450px;
+  height: 150px;
+}
+
+.call1{
+  margin-top: 35px;
+  margin-left: 90px;
+}
+
+.laptop{
+  width: 565px;
+  height: 375px;
+  margin-left: 450px;
+  position: absolute;
+  top: 120px;
+
+
+}
+
+.teg2{
+  color: #000;
+  font-family: Comfortaa;
+  font-size: 25px;
+  margin-top: 120px;
+    margin-left: 35px;
+}
+
+.teg3{
+  color: #000;
+  font-family: Comfortaa;
+  font-size: 20px;
+  font-weight: 400;
+  margin-top: 5px;
+    margin-left: 35px;
+}
+
+.teg4{
+  color: #000;
+  font-family: Comfortaa;
+  font-size: 20px;
+    margin-left: 35px;
+}
+
+.products {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 70px;
+    margin-top: 30px;
+    margin-left: 25px; 
+}
+
+#img22 {
+  width: 250px;
+  height: 250px;
+}
+
+.products img:hover {
+    transform: scale(1.1);
+}
+
+.office {
+  width: 450px;
+  height: 280px;
+  margin-top: 30px;
+  float: left;
+  margin-left: 0px;
+}
+
+.teg5 {
+  color: #000;
+  font-family: Comfortaa;
+  font-size: 25px;
+  font-weight: 700;
+  margin-top: 40px;
+  text-align: center;
+
+}
+
+.teg6 {
+  color: #000;
+  font-family: Comfortaa;
+  font-size: 20px;
+  font-weight: 400;
+  margin-top: 12px;
+  text-align: center;
+}
+
+
+.teg7 {
+  color: #000;
+  font-family: Comfortaa;
+  font-size: 23px;
+}
+
+.teg8 {
+  color: #3F98D7;
+  font-family: Comfortaa;
+  font-size: 20px;  
+}
+
+.end {
+  float: left;
+  margin-top: 80px;
+  margin-left: 20px;
+}
+
+.location1 {
+  width: 160px;
+  height: 50px;
+  margin-top: 20px;
+  margin-left: 5px;
+  float: left;
+}
+
+.teg9 {
+  color: #000;
+  font-family: Comfortaa;
+  font-size: 23px;
+}
+
+.phone {
+  width: 23px;
+  height: 23px;
+  margin-top: 30px;
+  float: left;
+
+}
+
+.teg10 {
+  color: #000;
+  font-family: Comfortaa;
+  font-size: 16px;
+  margin-top: 25px;
+  position: absolute;
+  margin-left: 30px;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+a:hover {
+    color: #3F98D7; 
+    cursor:pointer;  
+}
+
+.map-mather {
+    margin-right: 3px;
+    position: absolute;
+    margin-top: 420px;
+}
+
+.watch1 {
+    width: 155px;
+    height: 40px;
+    float: left;
+    margin-top: 17px;
+
+}
+
+.telegram1 {
+    margin-left: 140px;
+    margin-top: 18px;
+    width: 45px;
+    height: 45px;
+}
+
+.whatsapp {
+    margin-left: 20px;
+    margin-top: 18px;
+    width: 45px;
+    height: 45px;
+}
+
+
+.youtube-video {
+  float: left;
+  margin-top: 40px;
+  margin-right: 40px;
+}

@@ -1,0 +1,260 @@
+@media (max-width: 1000px) {
+.logo {
+  width: 300px;
+  height: 95px;
+  float:left;
+}
+}
+
+@media only screen and (max-width: 450px) {
+
+  .container {
+  width: 450px;
+  max-height: 1300px;
+  background-color: white;
+  margin: 0 auto;
+}
+  .logo {
+  width: 150px;
+  height: 61px;
+  float:left;
+  margin-top: 1px;
+  margin-left: 30px;
+}
+
+.location {
+  display:none;
+}
+
+.watch {
+  display:none;
+}
+
+.telegram {
+  margin-left: 40px;
+  margin-top: 15px;
+  width: 25px;
+  height: 25px;
+   margin-left: 25px;
+
+}
+
+.instagram {
+  margin-left: 20px;
+  margin-top: 15px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+
+
+}
+
+.call {
+  width: 93px;
+  height: 25px;
+  margin-left: 60px;
+  margin-bot: 30px;
+  position: absolute;
+  margin-top: 15px;
+}
+
+.teg0 {
+  color: #000;
+  font-family: Comfortaa;
+  font-size: 13px;
+  margin-top: 50px;
+  margin-left: 30px;
+  width: 200px;
+}
+
+.teg1 {
+  color: #000;
+  font-family: Comfortaa;
+  font-size: 13px;
+  margin-top: 5px;
+  margin-left: 30px;
+  width: 250px;
+
+}
+
+.laptop {
+  max-width: 180px;
+  max-height: 120px;
+  margin-left: 210px;
+  position: absolute;
+  top: 60px;
+}
+
+.call1{
+  margin-top: 15px;
+  margin-left: 70px;
+  width: 90px;
+  height: 20px;
+}
+
+.teg2{
+  color: #000;
+  font-family: Comfortaa;
+  font-size: 20px;
+  margin-top: -25px;
+  margin-left: 130px;
+  width: 200px;
+}
+
+.teg3{
+  color: #000;
+  font-family: Comfortaa;
+  font-size: 13px;
+  margin-top: 5px;
+  margin-left: 12px;
+  width: 300px;
+}
+
+.teg4{
+  color: #000;
+  font-family: Comfortaa;
+  font-size: 13px;
+  margin-left: 25px;
+  position: absolute;
+  width: 320px;
+  
+
+}
+
+#img22 {
+  max-width: 130px;
+  max-height: 130px;
+}
+
+.products {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 25px;
+    margin-top: 40px;
+    margin-left: 65px; 
+    grid-template-columns: 130px 130px;
+}
+
+.network {
+  width: 150px;
+}
+
+.office {
+  display: none;
+}
+
+.teg5 {
+  color: #000;
+  font-family: Comfortaa;
+  font-size: 15px;
+  margin-top: 40px;
+  text-align: center;
+
+}
+
+.teg6 {
+  color: #000;
+  font-family: Comfortaa;
+  font-size: 10px;
+  margin-top: 12px;
+}
+
+.map-mather {
+    display: none;
+}
+
+.about {
+  width: 300px;
+  height: 300px;
+}
+
+.search {
+  width: 350px;
+  margin-left: 30px;
+}
+
+.about-text {
+  margin: 0 auto;
+  width: 300px;
+  margin-right: 90px;
+}
+
+.end {
+  bottom: 500px;
+  margin-top: 50px;
+
+}
+
+.teg7 {
+
+  color: #000;
+  font-family: Comfortaa;
+  font-size: 15px;
+  margin-left: 130px;
+  width: 200px;
+
+}
+
+.teg8 {
+  color: #3F98D7;
+  font-family: Comfortaa;
+  font-size: 15px;
+  margin-left: 80px;
+  margin-top: 5px;
+  width: 220px;
+}
+
+.watch1 {
+  width: 130px;
+  max-height: 130px;
+  margin-bottom: 140px;
+  margin-left: 30px;
+}
+
+.location1 {
+  width: 145px;
+  max-height: 145px;
+  margin-bottom: 140px;
+  margin-left: 50px;
+}
+
+.teg8 br {
+  display: none;
+}
+
+.teg9 {
+  color: #000;
+  font-family: Comfortaa;
+  font-size: 15px;
+  width: 150px;
+  height: 50px;
+  position: absolute;
+  margin-top: 60px;
+  margin-left: 30px;
+}
+
+.teg10 {
+  margin-top: 90px;
+  float: right;
+  margin-right: 50px;
+}
+
+.telegram1 {
+    display: none;
+    }
+
+.whatsapp {
+   display: none;
+}
+
+
+.phone {
+  display: none;
+}
+
+
+.youtube-video {
+  width: 450px;
+}
+
+} 
